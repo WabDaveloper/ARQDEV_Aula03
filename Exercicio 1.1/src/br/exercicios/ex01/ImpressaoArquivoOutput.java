@@ -9,7 +9,7 @@ public class ImpressaoArquivoOutput extends Impressao {
 	
 	public void escreve() {
 	  String content = "Hello, World!";
-	  String local = "C:\\Users\\MOREIRA\\Documents\\output.log";
+	  String local = "C:\\Users\\Anderson\\Desktop\\output.log";
 		
       try {
 
